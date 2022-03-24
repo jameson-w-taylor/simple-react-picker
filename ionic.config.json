@@ -1,0 +1,7 @@
+{
+  "name": "picker-v6-react",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
